@@ -1,0 +1,18 @@
+package com.example.projectpractcice;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+
+public class HashMapPr extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_hash_map_pr);
+
+
+
+
+    }
+}
